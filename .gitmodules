@@ -3,4 +3,5 @@
 	url = https://github.com/TinyTapeout/tt-multiplexer/
 [submodule "tt"]
 	path = tt
-	url = https://github.com/TinyTapeout/tt-support-tools
+	url = https://github.com/krisjdev/tt-support-tools
+	branch = feat/tt06-update-datasheet
